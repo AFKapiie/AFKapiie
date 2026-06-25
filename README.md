@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I'm AFKapiie 
+
+I'm passionate about cybersecurity, networking, and game development. When I'm not learning about security, I'm usually working on game development projects and experimenting with new ideas. This GitHub is where I share the projects, labs, and experiences that help me grow as a developer 
+
+
 
 <!--
 **AFKapiie/AFKapiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
